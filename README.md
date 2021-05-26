@@ -6,8 +6,8 @@ sms anonymous &amp; free
 
 
  * git clone "https://github.com/aminefonix/BlackPandaSMS"
- * cd FreeSms
- * python3 fakesms.py
+ * cd BlackPandaSMS-main
+ * python3 BlackPandaSMS.py
  * Enter Phone Number with Country Code
  * Exo: +21355......
  
