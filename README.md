@@ -1,4 +1,4 @@
-# FakeSms
+# BlackPandaSms
 sms anonymous &amp; free 
 
 ## Install
