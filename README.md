@@ -5,7 +5,7 @@ sms anonymous &amp; free
 
 
 
- * git clone "https://github.com/X-HACKRAWI/FreeSms"
+ * git clone "https://github.com/aminefonix/BlackPandaSMS"
  * cd FreeSms
  * python3 fakesms.py
  * Enter Phone Number with Country Code
